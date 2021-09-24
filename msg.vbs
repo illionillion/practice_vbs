@@ -1,0 +1,1 @@
+msgbox "‚¨’‹‚Å‚·",vbSystemModal + vbExclamation, "‚¨’m‚ç‚¹"
